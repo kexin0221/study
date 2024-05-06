@@ -1,0 +1,18 @@
+type: codeforces
+title: Codeforces Round 939 (Div. 2)
+language: English
+summary: |-
+  A. Nene's Game
+  B. Nene and the Card Game
+  C. Nene's Magical Matrix
+  D. Nene and the Mex Operator
+  E1. Nene vs. Monsters (Easy Version)
+  E2. Nene vs. Monsters (Hard Version)
+  F. Nene and the Passing Game
+programming_language: Java
+programming_language_version: 21
+content:
+  - Problems
+end_date_time: 1713026100.000000000
+program_type_id: 87
+mode: Study

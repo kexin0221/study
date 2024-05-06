@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Java_OOP_Section-Three_Step_to_OOP-Java_Encapsulation" external.linked.project.path="$MODULE_DIR$/../../../../../Java OOP Section/Three Step to OOP/Java Encapsulation" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Liu_Course_Java_OOP" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Java OOP Section/Three Step to OOP/Java Encapsulation">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Java OOP Section/Three Step to OOP/Java Encapsulation/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Java OOP Section/Three Step to OOP/Java Encapsulation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Java OOP Section/Three Step to OOP/Java Encapsulation/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

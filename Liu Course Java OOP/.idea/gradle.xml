@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Java Bean" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Java Encapsulation" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Java Inheritance" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Java Polymorphism" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/OOP" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Object" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Overload Constructor" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Overload Method" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Override Method" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/Override vs Overload" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/final" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to OOP/this super" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to Object/Attribute" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to Object/Class Object" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to Object/Constructor" />
+            <option value="$PROJECT_DIR$/Java OOP Section/Three Step to Object/Method" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
