@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30a1eea6-f37c-4604-b5e3-16e74fa49524" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../a number that appears only once/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binary search/binary search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binary search/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bubble sort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bubble sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bubble sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bubble sort/bubble sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bubble sort/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../change the original value/change the original value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../majority element/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/odd numbers precede even numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the sum of two nums/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../three consecutive odd arrays/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240506class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20240506class/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2g7mFXn4laQt6urVnwjPueCcci6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="three consecutive odd arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="three consecutive odd arrays" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
