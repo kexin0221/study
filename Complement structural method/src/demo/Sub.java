@@ -6,6 +6,7 @@ public class Sub extends Base {
     public Sub(int x, int y, int z) {
         //write your code here
         super(x, y);
+        this.z = z;
     }
 
     public int getZ() {
