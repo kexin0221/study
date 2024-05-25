@@ -1,13 +1,21 @@
 package user;
 
+import ioperations.*;
+
 import java.util.Scanner;
 
 public class NormalUser extends User{
     public NormalUser(String name){
         super(name);
+        this.iOperations = new IOperation[]{
+                new ExitOperation(),
+                new FindOperation(),
+                new BorrowOperation(),
+                new ReturnOperation()
+        };
     }
 
-    public void menu(){
+    public int menu(){
         System.out.println("*******普通用户菜单*******");
         System.out.println("      1.查找图书");
         System.out.println("      2.借阅图书");
@@ -17,6 +25,6 @@ public class NormalUser extends User{
 
         Scanner input = new Scanner(System.in);
         System.out.println("请输入你的操作：");
-        int choice = input.nextInt();
+        return input.nextInt();
     }
 }

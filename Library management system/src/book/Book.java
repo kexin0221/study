@@ -13,8 +13,8 @@ public class Book {
                 "name='" + name + '\'' +
                 ", author='" + author + '\'' +
                 ", price=" + price +
-                ", type='" + type + '\'' +
-                ", isBorrowed=" + isBorrowed +
+                ", type='" + type + '\'' + ',' +
+                (isBorrowed ? "已借出" : "未借出") +
                 '}';
     }
 
@@ -55,5 +55,13 @@ public class Book {
 
     public void setType(String type) {
         this.type = type;
+    }
+
+    public boolean isBorrowed() {
+        return isBorrowed;
+    }
+
+    public void setBorrowed(boolean borrowed) {
+        isBorrowed = borrowed;
     }
 }
