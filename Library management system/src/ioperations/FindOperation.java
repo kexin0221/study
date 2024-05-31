@@ -10,6 +10,7 @@ public class FindOperation implements IOperation{
     public void work(BookList bookList){
         System.out.println("--查找图书--");
         Scanner input = new Scanner(System.in);
+
         System.out.println("请输入你要查找的书名:");
         String name = input.nextLine();
         int currentSize = bookList.getUsedSize();

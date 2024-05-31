@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228f4700-d33d-4299-9323-f49d5edb98fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/AddOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/BorrowOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/DelOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/ExitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/FindOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/IOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/ReturnOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioperations/ShowOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/BookList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user/AdminUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/AdminUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user/NormalUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/NormalUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/BorrowOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/DelOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/ExitOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/FindOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/ReturnOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/ShowOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/book/BookList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/user/AdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/user/NormalUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library management system2/src/user/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ioperations/FindOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ioperations/FindOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,8 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/java/Library management system&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
