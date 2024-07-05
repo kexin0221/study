@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228f4700-d33d-4299-9323-f49d5edb98fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/BorrowOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/DelOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/ExitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/FindOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/IOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/ReturnOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/IOperations/ShowOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/book/BookList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/user/AdminUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/user/NormalUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library management system2/src/user/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ioperations/FindOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ioperations/FindOperation.java" afterDir="false" />
-    </list>
+    <list default="true" id="228f4700-d33d-4299-9323-f49d5edb98fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
