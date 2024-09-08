@@ -23,7 +23,7 @@ public class Test {
 
         System.out.println(list.size());
 
-        list.remove(78);
+        list.remove(78)
         list.display();
         list.remove(99);
         list.display();
