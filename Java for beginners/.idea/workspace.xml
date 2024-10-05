@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67ed7712-00d2-4781-8fe6-aa8d054bc20e" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Operators/1.5 Boolean Logic/src/BooleanLogic.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Operators/1.6 Boolean Calculator/src/BooleanCalculator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Operators/Boolean Operators/src/BooleanOperators.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Operators/Comparison Operators/src/ComparisonOperators.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Operators/Shortcut Operators/src/ShortcutOperators.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Structure/1.1 Class syntax/src/ClassSyntax.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Structure/1.2 Say Hello/src/SayHello.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Structure/1.2 Say Hello/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Structure/1.2 Say Hello/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Structure/Classes in Java/src/ClassesInJava.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Structure/Printing Statements/src/PrintingStatements.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/1.3 Cafe Receipt/src/CafeReceipt.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/1.3 Cafe Receipt/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/1.3 Cafe Receipt/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/1.4 Speed Calculator/src/SpeedCalculator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/Changing Values/src/ChangingValues.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/Integer Division and Type Casting/src/IntegerDivisionAndTypeCasting.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1. Fundamentals/Variables/Storing Values/src/StoringValues.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.1 Client Points/src/ClientPoints.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.1 Client Points/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.1 Client Points/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.2 Roller Coaster/src/RollerCoaster.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.2 Roller Coaster/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.2 Roller Coaster/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/2.3 Smart Room/src/SmartRoom.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/Conditionals/src/Conditionals.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/Nesting Conditionals/src/NestingConditionals.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Conditionals/The else Clause/src/TheElseClause.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.4 Odd Selector/src/OddSelector.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.5 While Using Modulus/src/WhileUsingModulus.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.6 Breaking The Ice/src/BreakingTheIce.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.7 Finding primes/src/FindingPrimes.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.8 Hundredth Prime/src/HundredthPrime.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.8 Hundredth Prime/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/2.8 Hundredth Prime/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/Nesting Loops and Conditionals/src/NestingLoopsAndConditionals.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/The for Loop/src/TheForLoop.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/The while Loop/src/TheWhileLoop.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2. Flow Control/Loops/break and continue/src/BreakAndContinue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.4 Estimate Age/src/Person.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.4 Estimate Age/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.4 Estimate Age/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.5 Make it A Combo/src/Meal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.5 Make it A Combo/test/MealTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.6 Counting Sheep/src/Sheep.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/3.6 Counting Sheep/test/SheepTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/Returning Values/src/ReturningValues.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/Static Attributes/src/StaticAttributes.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Methods/Void Methods/src/VoidMethods.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/3.1 Make a Thing/src/Thing.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/3.2 Shoe Maker/src/Shoes.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/3.2 Shoe Maker/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/3.2 Shoe Maker/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/3.3 Car Factory/src/Car.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/Attributes/src/Attributes.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/Constructors/src/Constructors.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3. Objects and Methods/Objects/Objects/src/Objects.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/Arrays/4.3 Get Letter List/src/LettersList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/Arrays/4.3 Get Letter List/test/LettersTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/Arrays/4.4 Counting Error/src/CountingError.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/Arrays/Arrays/src/Arrays.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/Arrays/The Enhanced for Loop/src/EnhancedForLoop.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/src/GetShortestWord.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/test/ShortestTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/String Methods/4.2 Word Cutter/src/WordCutter.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/String Methods/4.2 Word Cutter/test/WordCutterTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/String Methods/String Length/src/Length.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4. Arrays and String Methods/String Methods/Substrings/src/Substrings.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/2D Arrays/2D Arrays/src/Arrays2D.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/2D Arrays/5.3 Chessboard/src/Chessboard.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/2D Arrays/5.3 Chessboard/test/latest_output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/2D Arrays/5.3 Chessboard/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/ArrayList/5.1 Month organizer/src/MonthOrganizer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/src/AverageCalculator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/test/AverageTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/ArrayList/ArrayList Methods/src/ArrayListMethods.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/ArrayList/ArrayLists/src/ArrayLists.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5. ArrayList and 2D Arrays/ArrayList/Wrapper Classes/src/WrapperClasses.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2fMQIEFWo69xtXpogUNdgpYL1hU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "kotlin-language-version-configured": "true",
+    "show.inlinked.gradle.project.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+</project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5bc9659-6e39-4b95-a2c3-ff3811b50a95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../冒泡排序/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/FileContentIndex/40f45bd0-e651-4439-946f-b9557c517dce.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/FileContentIndex/b70d14c6-ce6f-497a-a004-52ff6029ba5b.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/v17/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/v17/Solution.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/.vs/冒泡排序/v17/ipch/AutoPCH/cf808f8f30393146/TEST.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/x64/Debug/冒泡排序.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/x64/Debug/冒泡排序.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/test.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/vc143.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/vc143.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/Cl.items.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/link.secondary.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡排序/冒泡排序/x64/Debug/冒泡排序.tlog/冒泡排序.lastbuildstate" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mEomriRFCUJMJIdymcwQZCbjzC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

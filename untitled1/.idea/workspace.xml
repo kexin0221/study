@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="768f799d-bf1f-4cf8-bf1c-d90b97f61ee4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../binary search/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../change the original value/change the original value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/odd numbers precede even numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20240506class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20240506class/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2g7NWNGEMBEQWxvFN7J9gqEAqOH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
