@@ -44,9 +44,9 @@
     <setting file="file://$PROJECT_DIR$/Problems/F. Nene and the Passing Game/testData/1/input.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Problems/F. Nene and the Passing Game/testData/1/output.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2fMqXZK8fCzupOkCdvYz8M9C8KR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,6 +56,8 @@
   "keyToString": {
     "Edu.Yaml.Migrate": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/java/Codeforces Round 939 (Div. 2)",
+    "nodejs_package_manager_path": "npm",
     "show.inlinked.gradle.project.popup": "false"
   }
 }]]></component>

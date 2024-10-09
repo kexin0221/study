@@ -18,9 +18,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jHhEwD4PaMN5tlmAldDY6zROl7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,8 +32,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/java/class7-15",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.reader.mode"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fcb89b9-4512-4c21-aa11-c9fe5556fe10" name="Changes" comment="" />
+      <created>1728206700030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728206700030</updated>
+    </task>
+    <servers />
+  </component>
 </project>

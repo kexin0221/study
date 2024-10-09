@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f271fed3-da54-4d35-9603-bea90d1dbfba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/StackExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StackExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access parent class variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Access parent class variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array maximum and minimum values/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Array maximum and minimum values/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays copy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays copy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Average number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Average number/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate integer digits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate integer digits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character set/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Character set/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modify the definition of data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Modify the definition of data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyArraylist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyLinkedlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyLinkedlist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Narcissistic Number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Narcissistic Number/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overloading of the method of finding the maximum value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overloading of the method of finding the maximum value/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse single list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse single list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a number that appears only once/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/a number that appears only once/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/binary search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bubble sort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/change the original value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/change the original value/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class5_22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class5_22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class7-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class7-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odd numbers precede even numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odd numbers precede even numbers/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +70,7 @@
       <workItem from="1728141668605" duration="2000" />
       <workItem from="1728141679690" duration="4000" />
       <workItem from="1728141695472" duration="3000" />
+      <workItem from="1728206702922" duration="17000" />
     </task>
     <servers />
   </component>

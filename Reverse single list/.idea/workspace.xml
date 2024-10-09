@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df6d7b20-acdd-4589-b648-a9a863a275e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/demo/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modify the definition of data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modify the definition of data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArraylist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyLinkedlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyLinkedlist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Narcissistic Number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Narcissistic Number/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Overloading of the method of finding the maximum value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Overloading of the method of finding the maximum value/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../odd numbers precede even numbers/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +44,30 @@
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/java/Reverse single list",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df6d7b20-acdd-4589-b648-a9a863a275e4" name="Changes" comment="" />
+      <created>1728206617251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728206617251</updated>
+      <workItem from="1728206618255" duration="2000" />
+    </task>
+    <servers />
+  </component>
 </project>
