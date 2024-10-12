@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\code\\java\\MyArrayList_c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|solutionrelative:MyArrayList_c\\SeqList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|solutionrelative:MyArrayList_c\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|solutionrelative:MyArrayList_c\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA28FF07-BC4E-45EE-842A-2576D192E0F2}|MyArrayList_c\\MyArrayList_c.vcxproj|solutionrelative:MyArrayList_c\\SeqList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SeqList.c",
               "DocumentMoniker": "D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.c",
               "RelativeDocumentMoniker": "MyArrayList_c\\SeqList.c",
               "ToolTip": "D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.c",
               "RelativeToolTip": "MyArrayList_c\\SeqList.c",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAG0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-08T12:31:27.806Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Test.c",
               "DocumentMoniker": "D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\Test.c",
               "RelativeDocumentMoniker": "MyArrayList_c\\Test.c",
               "ToolTip": "D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\Test.c",
               "RelativeToolTip": "MyArrayList_c\\Test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-08T00:55:46.678Z",
               "IsPinned": true,
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SeqList.h",
               "DocumentMoniker": "D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.h",
               "RelativeDocumentMoniker": "MyArrayList_c\\SeqList.h",
               "ToolTip": "D:\\code\\java\\MyArrayList_c\\MyArrayList_c\\SeqList.h",
               "RelativeToolTip": "MyArrayList_c\\SeqList.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-08T00:55:02.561Z",
               "EditorCaption": ""

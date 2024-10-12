@@ -1,8 +1,7 @@
 #include "SeqList.h"
 int InitList(SqList* L)
 {
-	L->elem = (ElemType*)malloc(LIST_INIT_SIZE * 
-		sizeof(ElemType));
+	L->elem = (ElemType*)malloc(LIST_INIT_SIZE * sizeof(ElemType));
 	if (!L->elem)
 	{
 		exit(FALSE);
@@ -54,7 +53,7 @@ int CreateList(SqList L, int length)
 {
 	for (int i = 0; i < length; i++)
 	{
-		scanf_s("%d", L.elem[L.usedsize - 1]);
+		L.elem[i] = i + 1;
 		L.usedsize++;
 	}
 	return TRUE;
@@ -78,6 +77,37 @@ int PrintList(SqList L)
 	{
 		printf("%d ", L.elem[i]);
 	}
-	printf("/n");
+	printf("\n");
 	return TRUE;
+}
+
+SqList MergeList(SqList A, int a, SqList B, int b)
+{
+	SqList* curA = A.elem[0];
+	SqList* curB = B.elem[0];
+	SqList C;
+	int i = 0;
+	while (curA != NULL && curB != NULL)
+	{
+		if (curA <= curB)
+		{
+			C.elem[i++] = curA;
+			curA++;
+		}
+		if (curA > curB)
+		{
+			C.elem[i++] = curB;
+			curB++;
+		}
+	}
+	if (curA = NULL)
+	{
+		C.elem[i] = curB;
+	}
+	else
+	{
+		C.elem[i] = curA;
+	}
+	C.usedsize = a + b;
+	return C;
 }

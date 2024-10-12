@@ -1,13 +1,3 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(MyArrayList_c.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  SeqList.c
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(30,11): warning C4133: “=”: 从“SqList *”到“ElemType *”的类型不兼容
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(38,4): warning C4047: “=”:“SqList *”与“ElemType”的间接级别不同
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(25,11): warning C4133: “初始化”: 从“ElemType *”到“SqList *”的类型不兼容
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(33,10): warning C4133: “初始化”: 从“ElemType *”到“SqList *”的类型不兼容
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(34,15): warning C4133: “初始化”: 从“ElemType *”到“SqList *”的类型不兼容
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(53,23): warning C4028: 形参 1 与声明不同
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(57,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“ElemType”
-D:\code\java\MyArrayList_c\MyArrayList_c\SeqList.c(70,10): warning C4133: “初始化”: 从“ElemType *”到“SqList *”的类型不兼容
   Test.c
-  正在生成代码...
   MyArrayList_c.vcxproj -> D:\code\java\MyArrayList_c\x64\Debug\SeqList.exe

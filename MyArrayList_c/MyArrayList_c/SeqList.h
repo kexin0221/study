@@ -31,3 +31,5 @@ int CreateList(SqList* L, int length);
 int ListDelete(SqList* L, int index);
 //打印顺序表
 int PrintList(SqList L);
+//合并两个有序顺序表
+SqList MergeList(SqList A, int a, SqList B, int b);
