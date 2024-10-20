@@ -1,4 +1,5 @@
 #include"SLinkList.h"
+#include "contact.h"
 
 void test1()
 {
@@ -62,9 +63,16 @@ void test2()
 	SLTPrint(plist);
 }
 
+void test3()
+{
+	contact* con = NULL;
+	InitContact(con);
+}
+
 int main()
 {
 	//test1();
-	test2();
+	//test2();
+	test3();
 	return 0;
 }

@@ -1,5 +1,6 @@
-﻿  SLinkList.c
-D:\code\java\SLinkList\SLinkList\SLinkList.c(62,10): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+﻿  contact.c
   test.c
   正在生成代码...
+D:\code\java\SLinkList\SLinkList\test.c(69,14): warning C4047: “函数”:“contact **”与“contact *”的间接级别不同
+D:\code\java\SLinkList\SLinkList\test.c(69,14): warning C4024: “InitContact”: 形参和实参 1 的类型不同
   SLinkList.vcxproj -> D:\code\java\SLinkList\x64\Debug\SLinkList.exe
