@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+my:
+  key3: Hello
+  key4: 10
+
+person:
+  id: 1
+  name: Java113
+  age: 18
+
+dbtypes:
+  id: 5
+  name:
+    - mysql
+    - sqlserver
+    - db2
+  ball:
+    k1: v1
+    k2: v2
+    k3: v3

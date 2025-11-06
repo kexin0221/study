@@ -1,10 +1,10 @@
-package com.bite.springiocdemo.controller;
+package com.bite.springiocdemo.config;
 
-import org.springframework.stereotype.Controller;
+import org.springframework.context.annotation.Configuration;
 
-@Controller
-public class HelloController {
+@Configuration
+public class UserConfig {
     public void print() {
-        System.out.println("Hello control");
+        System.out.println("Hello configuration");
     }
 }

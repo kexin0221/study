@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bite.Mybatis_demo.mapper.UserInfoMapperXML">
+
+    <resultMap id="BaseMap" type="com.bite.Mybatis_demo.model.UserInfo">
+<!--        <id property="id" column="id"></id>-->
+        <result property="deleteFlag" column="delete_flag"></result>
+        <result property="createTime" column="create_time"></result>
+        <result property="updateTime" column="update_time"></result>
+    </resultMap>
+
+    <sql id="sql">
+        select * from user_info
+    </sql>
+
+    <select id="selectAll" resultType="com.bite.Mybatis_demo.model.UserInfo">
+--         select * from user_info
+        <include refid="sql"></include>
+    </select>
+
+    <select id="selectAll2" resultMap="BaseMap">
+        select * from user_info
+    </select>
+
+    <select id="selectByCondition" resultType="com.bite.Mybatis_demo.model.UserInfo">
+        select * from user_info
+        <where>
+            <if test="age!=null">
+                and age = #{age}
+            </if>
+            <if test="gender!=null">
+                and gender = #{gender}
+            </if>
+        </where>
+<!--        where 1 = 1-->
+<!--        <trim>-->
+<!--            <if test="age!=null">-->
+<!--                and age = #{age}-->
+<!--            </if>-->
+<!--            <if test="gender!=null">-->
+<!--                and gender = #{gender}-->
+<!--            </if>-->
+<!--        </trim>-->
+    </select>
+
+    <insert id="insertUser">
+        INSERT INTO user_info (username, `password`, age) VALUES (#{username}, #{password}, #{age})
+    </insert>
+    <insert id="insertUser2" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO user_info (username, `password`, age) VALUES (#{userinfo.username},
+                                                                  #{userinfo.password}, #{userinfo.age})
+    </insert>
+
+    <insert id="insertUser3">
+        INSERT INTO user_info
+        <trim prefixOverrides="," suffixOverrides="," prefix="(" suffix=")">
+            <if test="username!=null">
+                username,
+            </if>
+            <if test="password!=null">
+                `password`,
+            </if>
+            <if test="age!=null">
+                 age,
+            </if>
+            <if test="gender!=null">
+                 gender,
+            </if>
+            <if test="phone!=null">
+                 phone,
+            </if>
+        </trim>
+        VALUES
+        <trim prefixOverrides="," suffixOverrides="," prefix="(" suffix=")">
+            <if test="username!=null">
+                #{username},
+            </if>
+            <if test="password!=null">
+                #{password},
+            </if>
+            <if test="age!=null">
+                 #{age},
+            </if>
+            <if test="gender!=null">
+                 #{gender},
+            </if>
+            <if test="phone!=null">
+                 #{phone},
+            </if>
+        </trim>
+    </insert>
+
+    <update id="updateUser">
+        update user_info set password = #{password}, age = #{age} where id = #{id}
+    </update>
+
+    <update id="updateByCondition">
+        update user_info
+            <set>
+                <if test="password!=null">
+                    password = #{password},
+                </if>
+                <if test="age!=null">
+                    age = #{age},
+                </if>
+                <if test="gender!=null">
+                    gender = #{gender}
+                </if>
+            </set>
+            where
+                id = #{id}
+    </update>
+
+    <delete id="deleteUser">
+        delete from user_info where id = #{id}
+    </delete>
+    <delete id="batchDelete">
+        delete from user_info where id in
+        -- (20, 21, 22);
+        <foreach collection="ids" open="(" close=")" separator="," item="id">
+            #{id}
+        </foreach>
+        -- id=1 or id=2 or id=3
+<!--        <foreach collection="ids" separator="or" item="id">-->
+<!--            id = #{id}-->
+<!--        </foreach>-->
+        -- ("z1", "p1"), ("z2", "p2")
+<!--        <foreach collection="userinfos" separator="," item="userinfo">-->
+<!--            (#{userinfo.username}, #{userinfo.password})-->
+<!--        </foreach>-->
+    </delete>
+
+</mapper>

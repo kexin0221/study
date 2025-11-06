@@ -1,4 +1,10 @@
 package com.bite.springiocdemo.service;
 
-public class UserServise {
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserService {
+    public void print() {
+        System.out.println("Hello service");
+    }
 }
