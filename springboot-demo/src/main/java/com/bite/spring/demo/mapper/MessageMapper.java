@@ -11,7 +11,6 @@ import java.util.List;
 public interface MessageMapper {
     /**
      * 查询所有留言信息
-     * @return
      */
     @Select("select * from message_info where delete_flag=0")
     List<MessageInfo> queryAll();
