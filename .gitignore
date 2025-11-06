@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# Build outputs
+target/
+build/
+*.class
+*.jar
+*.war
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
