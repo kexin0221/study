@@ -1,22 +1,28 @@
-# IDE files
-.idea/
-*.iml
-*.iws
-
-# Build outputs
-target/
-build/
+# 在 D:/code/java 创建 .gitignore 文件
+# Java 编译文件
 *.class
 *.jar
 *.war
 
-# OS files
+# 构建工具
+target/
+build/
+out/
+bin/
+
+# IDE 文件
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 系统文件
 .DS_Store
 Thumbs.db
 
-# Node modules
-node_modules/
+# 日志文件
+*.log
 
-# Python
-__pycache__/
-*.pyc
+# 依赖管理
+.m2/
+gradle/
