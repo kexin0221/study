@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6be770c4-efc0-4453-9f80-79e7b5313cb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/IOperations/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/BorrowOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/DelOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/ExitOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/FindOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/ReturnOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOperations/ShowOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book/BookList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/AdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/NormalUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library management system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library management system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library management system/src/ioperations/FindOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library management system/src/ioperations/FindOperation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gzB70XKttq0qehGU7nn7GUE9Er" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/java/Library management system&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/java/Library management system2/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="IOperations" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

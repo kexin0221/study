@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f271fed3-da54-4d35-9603-bea90d1dbfba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Access parent class variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Access parent class variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array maximum and minimum values/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Array maximum and minimum values/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays copy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays copy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Average number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Average number/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate integer digits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate integer digits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character set/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Character set/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modify the definition of data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Modify the definition of data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyArraylist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyLinkedlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyLinkedlist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Narcissistic Number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Narcissistic Number/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overloading of the method of finding the maximum value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overloading of the method of finding the maximum value/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse single list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse single list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a number that appears only once/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/a number that appears only once/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/binary search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bubble sort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/change the original value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/change the original value/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class5_22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class5_22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class7-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class7-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odd numbers precede even numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odd numbers precede even numbers/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kexin0221"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2n1Xe1Fc51yIAJT1x8VLkTnk8qt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f271fed3-da54-4d35-9603-bea90d1dbfba" name="Changes" comment="" />
+      <created>1728141647168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728141647168</updated>
+      <workItem from="1728141648278" duration="10000" />
+      <workItem from="1728141668605" duration="2000" />
+      <workItem from="1728141679690" duration="4000" />
+      <workItem from="1728141695472" duration="3000" />
+      <workItem from="1728206702922" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
