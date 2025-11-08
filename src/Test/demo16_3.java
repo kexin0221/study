@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 
 public class demo16_3 extends Application {
     @Override
-    public void start(Stage primaryStage) throws Exception {
+    public void start(Stage primaryStage) {
         Circle redLight = new Circle(20);
         redLight.setFill(Color.GRAY);
         redLight.setStroke(Color.BLACK);

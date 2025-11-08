@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f271fed3-da54-4d35-9603-bea90d1dbfba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Access parent class variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Access parent class variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array maximum and minimum values/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Array maximum and minimum values/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays copy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays copy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Average number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Average number/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate integer digits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate integer digits/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Character set/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Character set/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces Round 939 (Div. 2)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modify the definition of data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Modify the definition of data/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyArraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyArraylist/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyLinkedlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyLinkedlist/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Narcissistic Number/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Narcissistic Number/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Overloading of the method of finding the maximum value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overloading of the method of finding the maximum value/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse single list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse single list/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a number that appears only once/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/a number that appears only once/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/binary search/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bubble sort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/change the original value/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/change the original value/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class5_22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class5_22/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class7-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class7-15/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/odd numbers precede even numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odd numbers precede even numbers/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cbe15615-2394-40cb-8c12-c5d47d12705f" name="Changes" comment="java课程作业代码">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/demo16_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/demo16_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +22,34 @@
     "assignee": "kexin0221"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kexin0221/study.git",
+    "accountId": "acecae4c-3ee7-475e-866d-036d314984ab"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2n1Xe1Fc51yIAJT1x8VLkTnk8qt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/java",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,9 +72,22 @@
       <workItem from="1728141695472" duration="3000" />
       <workItem from="1728206702922" duration="17000" />
     </task>
+    <task id="LOCAL-00001" summary="java课程作业代码">
+      <option name="closed" value="true" />
+      <created>1762587792599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762587792599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java课程作业代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="java课程作业代码" />
   </component>
 </project>
